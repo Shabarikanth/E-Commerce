@@ -42,5 +42,5 @@ Continuously maintain and update the website with new features and improvements.
 Finally listen to user feedback and adapt the website accordingly.
 
 SUMMARY:
-Our e-commerce website, powered by React.js, provides a user-friendly and efficient online shopping experience, with a focus on ease of use, product search, and secure transactions.![image](https://github.com/Shabarikanth/E-Commerce/assets/131958278/39aecea5-d20d-46e7-b40b-c0a0969215f9)
+Our e-commerce website, powered by React.js, provides a user-friendly and efficient online shopping experience, with a focus on ease of use, product search, and secure transactions.
 ![image](https://github.com/Shabarikanth/E-Commerce/assets/131958278/96069790-2b64-44e3-a183-05925f8226e6)
